@@ -1,0 +1,17 @@
+= Member API
+:doctype: book
+:icons: font
+:source-highlighter: highlightjs
+:toc: left
+:toclevels: 4
+:sectlinks:
+
+== 1. Member Api
+
+== 1.1 getMember API
+
+operation::get-member[snippets='curl-request,http-request,http-response,response-fields']
+
+
+== 1.2 saveMember API
+operation::save-member[snippets='curl-request,http-request,request-fields, http-response,response-fields']
